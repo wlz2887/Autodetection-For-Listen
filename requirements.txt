@@ -1,0 +1,6 @@
+fitz
+PyMuPDF
+opencv-python
+pillow
+torch
+torchvision
